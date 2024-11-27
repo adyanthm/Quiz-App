@@ -122,9 +122,6 @@ export default function Home() {
           </button>
         </form>
       </div>
-
-      <p>Let&apos;s test your knowledge!</p>
-      <p>Don&apos;t worry, it&apos;s not too hard!</p>
     </div>
   );
 }
