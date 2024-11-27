@@ -6,17 +6,21 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "seed": "node scripts/seedData.mjs"
   },
   "dependencies": {
+    "firebase": "^11.0.2",
+    "next": "15.0.2",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
-    "next": "15.0.2"
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.12.0"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
     "eslint": "^8",
-    "eslint-config-next": "15.0.2"
+    "eslint-config-next": "15.0.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
   }
 }

@@ -1,0 +1,256 @@
+{
+  "questions": [
+    {
+      "question": "What causes day and night on Earth?",
+      "options": [
+        {
+          "text": "The Moon moves around Earth",
+          "isCorrect": false
+        },
+        {
+          "text": "Earth's rotation",
+          "isCorrect": true
+        },
+        {
+          "text": "Earth's revolution",
+          "isCorrect": false
+        },
+        {
+          "text": "The Sun's movement",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "How long does it take for the Earth to complete one revolution around the Sun?",
+      "options": [
+        {
+          "text": "24 hrs",
+          "isCorrect": false
+        },
+        {
+          "text": "27 days",
+          "isCorrect": false
+        },
+        {
+          "text": "365 days",
+          "isCorrect": true
+        },
+        {
+          "text": "12 months",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is Earth's shape called?",
+      "options": [
+        {
+          "text": "Circle",
+          "isCorrect": false
+        },
+        {
+          "text": "Sphere",
+          "isCorrect": true
+        },
+        {
+          "text": "Flat",
+          "isCorrect": false
+        },
+        {
+          "text": "Oval",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the Moon's role in causing ocean tides on Earth?",
+      "options": [
+        {
+          "text": "Its light creates waves",
+          "isCorrect": false
+        },
+        {
+          "text": "Its gravity pulls the water",
+          "isCorrect": true
+        },
+        {
+          "text": "It doesn't affect tides",
+          "isCorrect": false
+        },
+        {
+          "text": "It changes water color",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "How many days does the Moon take to orbit Earth?",
+      "options": [
+        {
+          "text": "29 days",
+          "isCorrect": false
+        },
+        {
+          "text": "27 days",
+          "isCorrect": true
+        },
+        {
+          "text": "26 days",
+          "isCorrect": false
+        },
+        {
+          "text": "30 days",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What are the different shapes of the Moon called?",
+      "options": [
+        {
+          "text": "Craters",
+          "isCorrect": false
+        },
+        {
+          "text": "Phases",
+          "isCorrect": true
+        },
+        {
+          "text": "Circles",
+          "isCorrect": false
+        },
+        {
+          "text": "Shadows",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What do we call a star that explodes at the end of its life?",
+      "options": [
+        {
+          "text": "Nova",
+          "isCorrect": false
+        },
+        {
+          "text": "Supernova",
+          "isCorrect": true
+        },
+        {
+          "text": "Pulsar",
+          "isCorrect": false
+        },
+        {
+          "text": "Quasar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Which constellation looks like a hunter?",
+      "options": [
+        {
+          "text": "Ursa Major",
+          "isCorrect": false
+        },
+        {
+          "text": "Orion",
+          "isCorrect": true
+        },
+        {
+          "text": "Pegasus",
+          "isCorrect": false
+        },
+        {
+          "text": "Lyra",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the closest star to Earth?",
+      "options": [
+        {
+          "text": "Proxima Centauri",
+          "isCorrect": false
+        },
+        {
+          "text": "The Sun",
+          "isCorrect": true
+        },
+        {
+          "text": "Orion",
+          "isCorrect": false
+        },
+        {
+          "text": "Sirius",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What makes stars appear to twinkle?",
+      "options": [
+        {
+          "text": "The stars movement",
+          "isCorrect": false
+        },
+        {
+          "text": "Earth's atmosphere",
+          "isCorrect": true
+        },
+        {
+          "text": "They blink on and off",
+          "isCorrect": false
+        },
+        {
+          "text": "Clouds passing by",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "What is the name of our galaxy?",
+      "options": [
+        {
+          "text": "Solar System",
+          "isCorrect": false
+        },
+        {
+          "text": "Milky Way",
+          "isCorrect": true
+        },
+        {
+          "text": "Andromeda",
+          "isCorrect": false
+        },
+        {
+          "text": "Black Hole",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "How many constellations are officially recognized in the night sky?",
+      "options": [
+        {
+          "text": "98",
+          "isCorrect": false
+        },
+        {
+          "text": "78",
+          "isCorrect": false
+        },
+        {
+          "text": "88",
+          "isCorrect": true
+        },
+        {
+          "text": "108",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+} 
