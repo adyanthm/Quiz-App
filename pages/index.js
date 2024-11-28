@@ -27,6 +27,17 @@ export default function Home() {
       );
       router.replace("/", undefined, { shallow: true });
     }
+
+    const correctSound = new Audio("/correct.mp3");
+    const incorrectSound = new Audio("/incorrect.mp3");
+
+    window.playCorrectSound = () => correctSound.play();
+    window.playIncorrectSound = () => incorrectSound.play();
+
+    return () => {
+      correctSound.remove();
+      incorrectSound.remove();
+    };
   }, [router]);
 
   const handleSubmit = (e) => {
@@ -121,6 +132,16 @@ export default function Home() {
             Enter
           </button>
         </form>
+      </div>
+
+      {/* Add credit text */}
+      <div className="mt-8 z-10">
+        <p className="text-white/80 font-medium bg-white/10 backdrop-blur-md inline-block px-6 py-3 rounded-full shadow-lg border border-white/10">
+          Designed by{" "}
+          <span className="text-purple-300 font-bold">Adyanth of 8th A1</span>
+          <span className="text-white/60">, </span>
+          <span className="text-purple-300 font-bold">Aaradhya's brother</span>
+        </p>
       </div>
     </div>
   );

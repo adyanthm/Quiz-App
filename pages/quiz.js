@@ -54,6 +54,9 @@ export default function Quiz() {
     setSelectedAnswer(selectedIndex);
     setShowFeedback(true);
 
+    const sound = new Audio(isCorrect ? "/correct.mp3" : "/incorrect.mp3");
+    sound.play();
+
     let newScore = score;
     if (isCorrect) {
       newScore = score + 1;

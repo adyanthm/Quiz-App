@@ -4,19 +4,19 @@
       "question": "What causes day and night on Earth?",
       "options": [
         {
-          "text": "The Moon moves around Earth",
-          "isCorrect": false
-        },
-        {
           "text": "Earth's rotation",
           "isCorrect": true
         },
         {
-          "text": "Earth's revolution",
+          "text": "The Moon moves around Earth",
           "isCorrect": false
         },
         {
           "text": "The Sun's movement",
+          "isCorrect": false
+        },
+        {
+          "text": "Earth's revolution",
           "isCorrect": false
         }
       ]
@@ -29,15 +29,15 @@
           "isCorrect": false
         },
         {
-          "text": "27 days",
-          "isCorrect": false
-        },
-        {
           "text": "365 days",
           "isCorrect": true
         },
         {
-          "text": "12 months",
+          "text": "10 months",
+          "isCorrect": false
+        },
+        {
+          "text": "27 days",
           "isCorrect": false
         }
       ]
@@ -50,16 +50,16 @@
           "isCorrect": false
         },
         {
-          "text": "Sphere",
-          "isCorrect": true
+          "text": "Oval",
+          "isCorrect": false
         },
         {
           "text": "Flat",
           "isCorrect": false
         },
         {
-          "text": "Oval",
-          "isCorrect": false
+          "text": "Sphere",
+          "isCorrect": true
         }
       ]
     },
@@ -67,7 +67,11 @@
       "question": "What is the Moon's role in causing ocean tides on Earth?",
       "options": [
         {
-          "text": "Its light creates waves",
+          "text": "It changes water color",
+          "isCorrect": false
+        },
+        {
+          "text": "It doesn't affect tides",
           "isCorrect": false
         },
         {
@@ -75,11 +79,7 @@
           "isCorrect": true
         },
         {
-          "text": "It doesn't affect tides",
-          "isCorrect": false
-        },
-        {
-          "text": "It changes water color",
+          "text": "Its light creates waves",
           "isCorrect": false
         }
       ]
@@ -92,16 +92,16 @@
           "isCorrect": false
         },
         {
-          "text": "27 days",
-          "isCorrect": true
+          "text": "30 days",
+          "isCorrect": false
         },
         {
           "text": "26 days",
           "isCorrect": false
         },
         {
-          "text": "30 days",
-          "isCorrect": false
+          "text": "27 days",
+          "isCorrect": true
         }
       ]
     },
@@ -109,7 +109,7 @@
       "question": "What are the different shapes of the Moon called?",
       "options": [
         {
-          "text": "Craters",
+          "text": "Shadows",
           "isCorrect": false
         },
         {
@@ -117,11 +117,11 @@
           "isCorrect": true
         },
         {
-          "text": "Circles",
+          "text": "Craters",
           "isCorrect": false
         },
         {
-          "text": "Shadows",
+          "text": "Circles",
           "isCorrect": false
         }
       ]
@@ -134,12 +134,12 @@
           "isCorrect": false
         },
         {
-          "text": "Supernova",
-          "isCorrect": true
-        },
-        {
           "text": "Pulsar",
           "isCorrect": false
+        },
+        {
+          "text": "Supernova",
+          "isCorrect": true
         },
         {
           "text": "Quasar",
@@ -151,20 +151,20 @@
       "question": "Which constellation looks like a hunter?",
       "options": [
         {
-          "text": "Ursa Major",
-          "isCorrect": false
-        },
-        {
-          "text": "Orion",
-          "isCorrect": true
-        },
-        {
           "text": "Pegasus",
           "isCorrect": false
         },
         {
           "text": "Lyra",
           "isCorrect": false
+        },
+        {
+          "text": "Ursa Major",
+          "isCorrect": false
+        },
+        {
+          "text": "Orion",
+          "isCorrect": true
         }
       ]
     },
@@ -172,7 +172,7 @@
       "question": "What is the closest star to Earth?",
       "options": [
         {
-          "text": "Proxima Centauri",
+          "text": "Sirius",
           "isCorrect": false
         },
         {
@@ -180,11 +180,11 @@
           "isCorrect": true
         },
         {
-          "text": "Orion",
+          "text": "Proxima Centauri",
           "isCorrect": false
         },
         {
-          "text": "Sirius",
+          "text": "Orion",
           "isCorrect": false
         }
       ]
@@ -193,19 +193,19 @@
       "question": "What makes stars appear to twinkle?",
       "options": [
         {
-          "text": "The stars movement",
-          "isCorrect": false
-        },
-        {
           "text": "Earth's atmosphere",
           "isCorrect": true
         },
         {
-          "text": "They blink on and off",
+          "text": "The stars movement",
           "isCorrect": false
         },
         {
           "text": "Clouds passing by",
+          "isCorrect": false
+        },
+        {
+          "text": "They blink on and off",
           "isCorrect": false
         }
       ]
@@ -218,16 +218,16 @@
           "isCorrect": false
         },
         {
-          "text": "Milky Way",
-          "isCorrect": true
-        },
-        {
           "text": "Andromeda",
           "isCorrect": false
         },
         {
           "text": "Black Hole",
           "isCorrect": false
+        },
+        {
+          "text": "Milky Way",
+          "isCorrect": true
         }
       ]
     },
@@ -235,16 +235,16 @@
       "question": "How many constellations are officially recognized in the night sky?",
       "options": [
         {
-          "text": "98",
-          "isCorrect": false
-        },
-        {
           "text": "78",
           "isCorrect": false
         },
         {
           "text": "88",
           "isCorrect": true
+        },
+        {
+          "text": "98",
+          "isCorrect": false
         },
         {
           "text": "108",
