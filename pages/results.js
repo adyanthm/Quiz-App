@@ -157,9 +157,7 @@ export default function Results() {
           <div className="mt-8 text-center">
             <p className="text-white/80 font-medium bg-[#1a0933]/60 backdrop-blur-md inline-block px-6 py-3 rounded-full shadow-lg border border-white/10">
               Designed by{" "}
-              <span className="text-purple-300 font-bold">
-                Adyanth of 8th A1
-              </span>
+              <span className="text-purple-300 font-bold">Adyanth of 8A1</span>
               <span className="text-white/60">, </span>
               <span className="text-purple-300 font-bold">
                 Aaradhya's brother
